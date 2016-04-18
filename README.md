@@ -14,3 +14,17 @@ CPU and overall level!
 • System wide memory usage: total, used (and percentage), free, and so on!
 
 • System wide swap usage: total, used (and percentage), free, and so on!
+
+### Monitoring Per-process statistics!
+•Process name!
+
+•Process parent pid!
+
+•Process state!
+
+•Process pid!
+
+•Process CPU usage: user (and percentage), system, total, and start time!
+
+•Process Memory usage: virtual memory, resident memory (and percentage), and shared
+memory
