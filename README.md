@@ -16,15 +16,18 @@ CPU and overall level!
 • System wide swap usage: total, used (and percentage), free, and so on!
 
 ### Monitoring Per-process statistics!
-•Process name!
+• Process name!
 
-•Process parent pid!
+• Process parent pid, state, pid!
 
-•Process state!
-
-•Process pid!
-
-•Process CPU usage: user (and percentage), system, total, and start time!
+• Process CPU usage: user (and percentage), system, total, and start time!
 
 •Process Memory usage: virtual memory, resident memory (and percentage), and shared
 memory
+
+### Monitoring File system statistics!
+• List of available disks!
+
+• For each disk, the name, type, and where it is mounted!
+
+• For each disk, the total, used (and percentage), free, and available space.
